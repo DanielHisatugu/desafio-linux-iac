@@ -2,7 +2,7 @@
 
 echo "Criando diretórios..." 
 
-mkdir  /publico
+mkdir /publico
 mkdir /adm
 mkdir /ven
 mkdir /sec
